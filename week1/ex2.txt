@@ -1,0 +1,132 @@
+    1  asd
+    2  whoami
+    3  hostname
+    4  head
+    5  pwd
+    6  cd
+    7  ls
+    8  mkdir OS
+    9  ls
+   10  pwd
+   11  cd os
+   12  cd OS
+   13  .
+   14  ..
+   15  cd ..
+   16  ls ,
+   17  ls .
+   18  cd ~
+   19  pwd
+   20  cd OS
+   21  touch 123.c
+   22  cat > 123.c
+   23  pwd
+   24  cd OS
+   25  pwd
+   26  ls
+   27  jobs
+   28  cd root
+   29  cd ~
+   30  mkdir ~/week1
+   31  ls
+   32  cd ~/week1
+   33  gedit main.c
+   34  apt install gedit
+   35  gedit main.c
+   36  ls
+   37  cd week1
+   38  ls
+   39  gedit ~/week1/main.c
+   40  apt install gedit
+   41  apt-get
+   42  apt-get upd
+   43  apt-get update
+   44  gedit ~/week1/main.c
+   45  apt install gedit
+   46  gedit ~/week1/main.c
+   47  ls
+   48  gedit main.c
+   49  touch main.c
+   50  ls
+   51  gedit main.c
+   52  export DISPLAY=:0
+   53  gedit main.c
+   54  edit main.c
+   55  cd week1
+   56  ls
+   57  gcc main.c -o ex4
+   58  apt install gcc
+   59  gcc main.c -o ex4
+   60  edit main.c
+   61  cd week1
+   62  edit main.c
+   63  ls
+   64  rm main.c
+   65  ls
+   66  cd week1
+   67  ls
+   68  touch main.c
+   69  ls
+   70  edit nano main.c
+   71  nano main.c
+   72  ls
+   73  gcc main.c -o ex4
+   74  nano main.c
+   75  ./ex4
+   76  ls
+   77  touch ex4
+   78  ls
+   79  nano ex4
+   80  ./ex4
+   81  gcc main.c -o ex4
+   82  ls
+   83  cd week1
+   84  ls
+   85  touch ex1.txt
+   86  ls
+   87  docker stop $(docker ps -a -q)
+   88  ls
+   89  cd /
+   90  ls
+   91  cd tmp
+   92  ls
+   93  cd /
+   94  ls
+   95  cd /
+   96  ls
+   97  mkdir week1
+   98  ls
+   99  ls /usr/bin | grep gcc | sort -r | cat >~/week1/ex1.txt
+  100  ls
+  101  cd week1
+  102  ls
+  103  touch ex1.txt
+  104  ls
+  105  ls /usr/bin | grep gcc | sort -r | cat >~/week1/ex1.txt
+  106  ls
+  107  edit ex1.txt
+  108  cd /
+  109  ls
+  110  cd root
+  111  ls
+  112  cd week1
+  113  ls
+  114  edit ex1.txt
+  115  cd ~
+  116  cd /
+  117  ls
+  118  rm -r week1
+  119  ls
+  120  hostname
+  121  path
+  122  cd root
+  123  ls
+  124  rm -r OS
+  125  ls
+  126  cd week1
+  127  ls
+  128  rm ex4
+  129  ls
+  130  rm main.c
+  131  ls
+  132  history > ex2.txt
