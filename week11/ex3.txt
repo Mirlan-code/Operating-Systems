@@ -1,0 +1,5 @@
+- without \n in printf code prints 'Hello' two times
+- 'Hello' prints to unflushed buffer
+- fork call copies state to child
+- exit: output buffers of parent and child, both flushs
+- with \n output flushs before fork call
