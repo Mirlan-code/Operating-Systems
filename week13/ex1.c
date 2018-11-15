@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-
+#define ll long long
 int main(){
 	int n = 3, m = 5;
 	int C[m][n];
